@@ -67,4 +67,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
+
+
+
+# How to start:
+
+1. Visit [Edamam](https://www.edamam.com/) to get your Recipe Search API  
+2. Click on Recipe Search API and Sign Up (*its free*), then Login  
+3. Go to Dashboard -> Applications  
+4. Copy the API_TOKEN and API_KEY  
+5. Open [src/App.js](src/App.js)  
+6. Enter your API_TOKEN and API_KEY after the comments as mentioned  
+7. Enjoy your own Recipe App :)  
